@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -18,5 +17,15 @@
     "firebase-admin": "^10.0.0",
     "mongodb": "^4.1.4",
     "nodemon": "^2.0.15"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programming-hero-web-course-4/niche-website-server-side-MdShamiurR.git"
+  },
+  "bugs": {
+    "url": "https://github.com/programming-hero-web-course-4/niche-website-server-side-MdShamiurR/issues"
+  },
+  "homepage": "https://github.com/programming-hero-web-course-4/niche-website-server-side-MdShamiurR#readme",
+  "description": ""
 }
